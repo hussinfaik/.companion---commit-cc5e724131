@@ -1,1 +1,1 @@
-# https-sourcegraph.com-github.com-ipfs-shipyard-ipfs-companion---compare-master...feat-self-hosted-
+https://sourcegraph.com/github.com/ipfs-shipyard/ipfs-companion/-/commit/cc5e7241313eec4421bb05440cf7fdd4f88a1ec9# https-sourcegraph.com-github.com-ipfs-shipyard-ipfs-companion---compare-master...feat-self-hosted-
